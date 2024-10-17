@@ -9,6 +9,10 @@ The data and exercises for participants are provided in a separate repository: h
 
 I am currently exploring the useability of [Jupyterlite](https://jupyterlite.readthedocs.io/en/latest/) either as a backup environment for participants who encounter issues with their own installation or as general workshop environment. The workshop materials can be executed through the [Jupyterlite instance](https://mwakok.github.io/software_carpentries/lab/index.html) running in this repository.
 
+## Branching Policy
+Note that this is the MAIN branch -- which is not the one that should be used for actual workshops.  Each run of the workshop should be associated
+with a branch names with the Carpentries slug for the run. At the end of the run, the review meeting should consider whether any materials committed to that branch should be merged in order to become part of the template for future runs.
+
 ## Feedback
 Feel free to use these materials and I welcome any feedback (mistakes, suggestions) in the form of an issue.
 
